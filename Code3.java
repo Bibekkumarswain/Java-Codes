@@ -12,5 +12,6 @@ class Code3
         System.out.println(i.a);
         System.out.println(b);
         System.out.println(c);
+        System.out.println("This is my integer value="+i.a+" "+"This is my double value="+b+" "+"This is my boolean value="+c);
     }
 }
