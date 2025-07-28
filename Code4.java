@@ -9,7 +9,7 @@ public class Code4 {
         Scanner s=new Scanner(System.in);
 
         System.out.print("Enter the first number:");
-        firstNum=s.nextInt();
+        firstNum=s.nextInt(); 
 
         System.out.print("Enter the second number:");
         secNum=s.nextInt();
