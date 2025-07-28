@@ -1,4 +1,4 @@
-package Variables;
+package ConditionalStmt;
 
 import java.util.Scanner;
 

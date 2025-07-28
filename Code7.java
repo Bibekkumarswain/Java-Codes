@@ -1,4 +1,4 @@
-package Variables;
+package ConditionalStmt;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Code7 {
         age=scn.nextInt();
         if(age>=18){
             System.out.println("You are eligiable for voting.");
-        }
+        } 
         else{
             System.out.println("Sorry you are not eligible for voting.");
         }
