@@ -1,3 +1,4 @@
+// Check a number is even or odd using while loop
 package ConditionalStmt;
 
 import java.util.Scanner;
