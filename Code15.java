@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Code15 {
     public static void main(String[] args) {
-        int a,b,c,d,ch;
+        int a,b,c,ch;
         System.out.print("Enter any two number:");
         Scanner scn=new Scanner(System.in);
 
