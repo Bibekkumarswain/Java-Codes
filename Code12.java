@@ -1,3 +1,4 @@
+//Write a program to check a number is even or odd
 package ConditionalStmt;
 
 import java.util.Scanner;

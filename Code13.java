@@ -1,4 +1,4 @@
-//To print 
+//To print natural number from 1 to 10
 package ConditionalStmt;
 
 public class Code13 {
